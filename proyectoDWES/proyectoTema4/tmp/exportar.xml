@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Departamentos>
+  <departamento>
+    <codDepartamento>XZB</codDepartamento>
+    <descDepartamento>Despliege de aplicaciones ROOT</descDepartamento>
+  </departamento>
+<departamento>
+    <codDepartamento>ASD</codDepartamento>
+    <descDepartamento>ahora si</descDepartamento>
+  </departamento>
+<departamento>
+    <codDepartamento>PLO</codDepartamento>
+    <descDepartamento>esto funciona</descDepartamento>
+  </departamento>
+<departamento>
+    <codDepartamento>KPT</codDepartamento>
+    <descDepartamento>Desta genial</descDepartamento>
+  </departamento>
+<departamento>
+    <codDepartamento>GJL</codDepartamento>
+    <descDepartamento>Dmola mucho</descDepartamento>
+  </departamento>
+</Departamentos>

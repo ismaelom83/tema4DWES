@@ -1,0 +1,22 @@
+[
+  {
+    "CodDepartamento": "DAW",
+    "DescDepartamento": "Despliege de aplicaciones WEB"
+  },
+  {
+    "CodDepartamento": "DIW",
+    "DescDepartamento": "Desarrollo interfaces WEB"
+  },
+  {
+    "CodDepartamento": "DWEC",
+    "DescDepartamento": "Desarrollo WEB entorno cliente"
+  },
+  {
+    "CodDepartamento": "DWES",
+    "DescDepartamento": "Desarrollo WEB entorno servidor"
+  },
+  {
+    "CodDepartamento": "EIE",
+    "DescDepartamento": "Empresa e inciativa Emprendedora"
+  }
+]
